@@ -1,0 +1,27 @@
+{
+  "name": "staticTodo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ],
+  "proxies": [
+    {
+      "path": "/getTaskSet",
+      "proxyUrl": "http://localhost:3000/getTaskSet"
+    },
+    {
+      "path": "/addTask",
+      "proxyUrl": "http://localhost:3000/addTask"
+    },
+    {
+      "path": "/deleteTask",
+      "proxyUrl": "http://localhost:3000/deleteTask"
+    }
+  ]
+}
