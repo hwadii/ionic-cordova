@@ -13,15 +13,15 @@
   "proxies": [
     {
       "path": "/getTaskSet",
-      "proxyUrl": "http://localhost:3000/getTaskSet"
+      "proxyUrl": "http://localhost:3001/api/list"
     },
     {
       "path": "/addTask",
-      "proxyUrl": "http://localhost:3000/addTask"
+      "proxyUrl": "http://localhost:3001/api/list"
     },
     {
       "path": "/deleteTask",
-      "proxyUrl": "http://localhost:3000/deleteTask"
+      "proxyUrl": "http://localhost:3001/api/list"
     }
   ]
 }
