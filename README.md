@@ -2,7 +2,7 @@
 
 Reference: https://ionicframework.com/docs/v1/guide/preface.html
 
-First step: StaticTodo
+**First step: StaticTodo**
 
 How to do (manually):
 1. Install Cordova : sudo npm install -g cordova
@@ -15,14 +15,14 @@ Instantly: npm install
 
 
 
-Test: ionic serve
+**Test**: ionic serve
 
 
-Second step: projectTodo
+**Second step: projectTodo**
 - group of task saved in a local storage
 
 
-Third step: APITodo
+**Third step: APITodo**
 - Add API address as proxy (see file : ionic.config.json)
 
 
