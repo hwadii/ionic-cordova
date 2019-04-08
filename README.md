@@ -4,13 +4,10 @@ Reference: https://ionicframework.com/docs/v1/guide/preface.html
 
 **First step: StaticTodo**
 
-How to do (manually):
+How to do :
 1. Install Cordova : sudo npm install -g cordova
 2. Install Ionic : sudo npm install -g ionic
-
-_or_
-
-Instantly: npm install
+3. npm install
 
 
 
