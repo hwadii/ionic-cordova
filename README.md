@@ -7,8 +7,8 @@ First step: StaticTodo
 How to do (manually):
 1. Install Cordova : sudo npm install -g cordova
 2. Install Ionic : sudo npm install -g ionic
-3. Create the project : ionic start StaticToDo blank --type ionic1
-4. Add platform (browser) : ionic cordova platform add browser
+
+_or_
 
 Instantly: npm install
 
